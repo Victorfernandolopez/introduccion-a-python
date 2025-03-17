@@ -1,3 +1,4 @@
+#concepto de id, editor de codigo y otras herramientas
 """
 Mini proyecto 3: Uso de un IDE/editor de código
 Objetivo: Familiarizarte con el uso de un IDE o editor de código y aprender a ejecutar programas desde allí.

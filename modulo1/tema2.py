@@ -1,3 +1,4 @@
+# preparacion del entorno
 """
 Mini proyecto 2: Preparación del entorno
 Objetivo: Asegurarte de que tu entorno de trabajo esté correctamente configurado.
