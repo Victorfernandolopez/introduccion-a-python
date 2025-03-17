@@ -1,0 +1,14 @@
+# Ignorar entorno virtual
+/introduccion_a_python/
+
+# Ignorar archivos de Python compilados
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar archivos de configuración específicos del editor
+.vscode/
+.idea/
+
+# Ignorar archivos de pip
+pip-wheel-metadata/
