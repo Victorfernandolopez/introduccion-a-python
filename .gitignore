@@ -12,3 +12,7 @@ __pycache__/
 
 # Ignorar archivos de pip
 pip-wheel-metadata/
+.qodo
+
+#ignorar
+.gitignore
